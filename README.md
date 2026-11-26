@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=%3Aw+%7C+bem-vindo+ao+meu+workspace;backend+%7C+APIs+%2F+banco+de+dados+%2F+regras+de+neg%C3%B3cio;sempre+compilando+algo+novo" alt="typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=%3Aw+%7C+bem-vindo+ao+meu+workspace;backend+%7C+APIs+%2F+banco+de+dados+%2F+regras+de+neg%C3%B3cio;sempre+compilando+algo+novo" alt="typing-svg">
 </div>
 
 <br>
