@@ -1,124 +1,153 @@
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,express,html,css,prisma,sqlite,git,github&theme=dark" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,java,html,css,prisma,sqlite,git,github&theme=dark" alt="Tecnologias" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Desenvolvedor+Web+%7C+Foco+em+Backend;Node.js+%C2%B7+Express+%C2%B7+Prisma+%C2%B7+SQLite;Em+busca+de+oportunidades+em+TI" alt="Apresentação" />
-
-<br>
-
-<img src="https://img.shields.io/badge/-Jo%C3%A3o%20Gabriel%20Santos%20Pereira-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
-<br>
-<img src="https://img.shields.io/badge/-Desenvolvedor%20Web-000000?style=flat-square&logo=nodedotjs&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/-Sistemas%20de%20Informa%C3%A7%C3%A3o%20%7C%20IFBA-000000?style=flat-square&logo=googlescholar&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/-Vit%C3%B3ria%20da%20Conquista%2C%20BA-000000?style=flat-square&logo=googlemaps&logoColor=39FF14" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3200&pause=1000&color=39FF14&center=true&vCenter=true&width=720&lines=bem-vindo+%C3%A0+minha+bancada+de+desenvolvimento;backend+%C2%B7+APIs+%C2%B7+modelagem+de+dados;solu%C3%A7%C3%B5es+para+problemas+reais" alt="Apresentação" />
 
 </div>
 
 <br>
 
-## Perfil
-
-Estudante de Bacharelado em Sistemas de Informação no IFBA (Campus Vitória da Conquista) e desenvolvedor web freelancer, com foco em desenvolvimento backend.
-
-Tenho experiência prática na construção de aplicações web com Node.js, Express, Prisma e SQLite, com ênfase em modelagem de dados, implementação de regras de negócio e organização do código para facilitar a manutenção e a expansão. Busco uma oportunidade na área de TI para aplicar meus conhecimentos em problemas reais e seguir evoluindo profissionalmente.
-
-| Campo | Informação |
-| --- | --- |
-| **Localização** | Vitória da Conquista, BA |
-| **Formação** | Bacharelado em Sistemas de Informação, IFBA (4º semestre, noturno) |
-| **Conclusão prevista** | Dezembro de 2028 |
-| **Áreas de interesse** | Desenvolvimento backend, APIs e modelagem de dados |
-| **Situação atual** | Aberto a oportunidades em TI |
+<div align="center">
+  <img src="https://img.shields.io/badge/-Jo%C3%A3o%20Gabriel%20Santos%20Pereira-000000?style=for-the-badge&logo=javascript&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/-Desenvolvedor%20Web%20%7C%20Backend-000000?style=for-the-badge&logo=nodedotjs&logoColor=39FF14" />
+</div>
 
 <br>
 
-## Experiência Profissional
-
-**Casa 2 Studio** · Desenvolvedor Web Freelancer
-<sub>Vitória da Conquista, BA · Projeto freelancer</sub>
-
-- Desenvolvimento de sistema web para o gerenciamento de agendamentos de ensaios em estúdio musical
-- Implementação de CRUD de agendamentos: cadastro, consulta, edição e exclusão de reservas
-- Criação de regras de negócio para a validação dos agendamentos e a prevenção de conflitos de horário
-- Estruturação da aplicação com foco em organização, manutenção e futura expansão
-- Versionamento do projeto com Git e GitHub
-
-**Tecnologias:** `Node.js` · `Express` · `JavaScript` · `Prisma` · `SQLite` · `HTML` · `CSS`
+<table align="center">
+<tr>
+<td align="center" width="210"><sub>FORMAÇÃO</sub><br><b>Sistemas de Informação</b><br><sub>IFBA · 4º semestre</sub></td>
+<td align="center" width="210"><sub>ATUAÇÃO</sub><br><b>Dev Web Freelancer</b><br><sub>Casa 2 Studio</sub></td>
+<td align="center" width="210"><sub>FOCO</sub><br><b>Backend</b><br><sub>APIs · Dados · Regras de negócio</sub></td>
+<td align="center" width="210"><sub>LOCAL</sub><br><b>Vitória da Conquista</b><br><sub>Bahia · Brasil</sub></td>
+</tr>
+</table>
 
 <br>
 
-## Projeto em Destaque
+## `// apresentação`
+
+```javascript
+const joao = {
+  funcao: "Desenvolvedor Web",
+  foco: "Backend",
+  formacao: "Bacharelado em Sistemas de Informação, IFBA",
+  stack: ["Node.js", "Express", "Prisma", "SQLite"],
+  status: "Aberto a oportunidades em TI",
+};
+```
+
+Desenvolvo aplicações web do banco de dados à interface, com atenção à modelagem de dados, às regras de negócio e à organização do código. Busco uma oportunidade em TI para aplicar o que aprendi em problemas reais e continuar evoluindo.
+
+<br>
+
+## `// atuação`
+
+| Período | Função | Destaques |
+| :--- | :--- | :--- |
+| **Freelance** | **Desenvolvedor Web** · Casa 2 Studio | Sistema de agendamentos · CRUD · Regras de negócio · Git e GitHub |
+
+<br>
+
+## `// projeto em destaque`
 
 <div align="center">
 
 <a href="https://github.com/jjoaoSantosp/Estudio-Casa-2">
-  <img src="https://img.shields.io/badge/-Est%C3%BAdio%20Casa%202%20%E2%80%94%20Ver%20reposit%C3%B3rio-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/-Est%C3%BAdio%20Casa%202-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
 </a>
+<img src="https://img.shields.io/badge/-Sistema%20de%20agendamento%20de%20ensaios-000000?style=for-the-badge&logoColor=39FF14" />
 
 </div>
 
-**Visão geral.** Sistema de agendamento de ensaios para estúdio musical, com controle de reservas e verificação automática de conflitos de horário.
+<br>
 
-**Funcionalidades**
+| Módulo | O que faz |
+| :--- | :--- |
+| **Agendamentos** | Cadastro, consulta, edição e exclusão de reservas |
+| **Regras de negócio** | Validação dos horários e prevenção de conflitos entre ensaios |
+| **Usuários** | Cadastro com validação de dados e proteção de senhas |
+| **Interface** | Telas de edição, confirmação de exclusão e controle de valor por agendamento |
 
-- CRUD completo de agendamentos
-- Validação de conflitos de horário nas reservas
-- Cadastro de usuários com validação de campos, de e-mail e de senha, com senhas protegidas por `bcrypt`
-- Interface com modais de edição e de confirmação de exclusão, e campo de valor por agendamento
+<div align="center">
 
-**Decisões técnicas**
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sqlite,js,html,css,git&theme=dark" alt="Stack do projeto" />
 
-| Decisão | Justificativa |
-| --- | --- |
-| Migração de PostgreSQL para **SQLite** | Aplicação de uso local, com um único estúdio e um único usuário, sem necessidade de servidor de banco de dados |
-| Substituição do Electron por um **launcher para Windows** | Erros no empacotamento do Prisma com o Electron. A solução adotada usa `iniciar.vbs` e `encerrar.bat` para abrir o sistema em janela própria no Chrome ou Edge |
-| Front-end em **HTML, CSS e JavaScript puro** | Domínio do DOM e do tratamento de eventos antes da adoção de frameworks |
-
-**Próximo passo:** disponibilizar uma versão web do sistema, publicada online.
+</div>
 
 <br>
 
-## Competências Técnicas
+## `// outros projetos`
 
-| Área | Tecnologias |
-| --- | --- |
-| **Linguagens** | Java, JavaScript, HTML5, CSS3 |
-| **Backend e frameworks** | Node.js, Express |
-| **Bancos de dados e ORM** | SQLite, Prisma (modelagem de dados) |
-| **Controle de versão** | Git, GitHub |
-| **Fundamentos** | Lógica de programação, estruturas de dados, fundamentos de hardware e informática |
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **Reserva de quartos de hotel** | Sistema de reservas com interface gráfica | `Java` `JavaFX` |
+| **Gerenciador de cursos em árvore** | Trabalho em grupo de estruturas de dados, com busca por título e percurso de caminhos | `Java` |
 
 <br>
 
-## Formação e Certificações
+## `// competências`
 
-| Formação | Instituição | Situação |
-| --- | --- | --- |
-| Bacharelado em Sistemas de Informação | IFBA, Campus Vitória da Conquista | Em andamento, conclusão em 12/2028 |
-| Desenvolvimento Web Full Stack | Udemy | Em andamento |
-| Eletricista Instalador Predial de Baixa Tensão | PMQ | Concluído em 08/2025 |
-| Curso de Inglês | Escola KNN | Concluído em 06/2019 |
+<div align="center">
 
-<br>
+<img src="https://img.shields.io/badge/-Modelagem%20de%20Dados-000000?style=for-the-badge&logo=sqlite&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-Regras%20de%20Neg%C3%B3cio-000000?style=for-the-badge&logo=checkmarx&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-C%C3%B3digo%20Organizado-000000?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-Versionamento-000000?style=for-the-badge&logo=git&logoColor=39FF14" />
 
-## Foco Atual de Estudos
-
-- Desenvolvimento backend com Node.js
-- Modelagem de dados e modelo entidade-relacionamento (disciplina de Banco de Dados I)
-- Desenvolvimento web full stack (curso na Udemy)
+</div>
 
 <br>
 
-## Contato
+<table align="center">
+<tr>
+<td align="center" width="240"><b>Linguagens</b></td>
+<td align="center" width="240"><b>Backend</b></td>
+<td align="center" width="240"><b>Dados</b></td>
+<td align="center" width="240"><b>Ferramentas</b></td>
+</tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java,js,html,css" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlite,prisma" /></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github" /></td>
+</tr>
+</table>
 
-Estou disponível para conversar sobre oportunidades, projetos e colaborações na área de tecnologia.
+<br>
+
+## `// formação`
+
+| Período | Formação | Instituição |
+| :--- | :--- | :--- |
+| **Até dez/2028** | Bacharelado em Sistemas de Informação | IFBA, Campus Vitória da Conquista |
+| **Em andamento** | Desenvolvimento Web Full Stack | Udemy |
+| **Ago/2025** | Eletricista Instalador Predial de Baixa Tensão | PMQ |
+| **Jun/2019** | Curso de Inglês | Escola KNN |
+
+<br>
+
+## `// em evolução`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-Banco%20de%20Dados-000000?style=for-the-badge&logo=sqlite&logoColor=00BFFF" />
+<img src="https://img.shields.io/badge/-Full%20Stack-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14" />
+
+</div>
+
+<br>
+
+## `// contato`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-santos-pereira-512a08357/">
-  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF" />
 </a>
 <a href="mailto:joaogabriel43123@gmail.com">
   <img src="https://img.shields.io/badge/-E--mail-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" />
@@ -126,5 +155,9 @@ Estou disponível para conversar sobre oportunidades, projetos e colaborações 
 <a href="https://github.com/jjoaoSantosp">
   <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
 </a>
+
+<br><br>
+
+<sub>Obrigado pela visita.</sub>
 
 </div>
