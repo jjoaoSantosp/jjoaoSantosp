@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=estudante+de+Sistemas+de+Informação;construindo+meu+caminho+no+backend;transformando+ideias+em+sistemas;aprendendo+um+pouco+mais+a+cada+projeto" alt="typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=750&lines=estudante+de+Sistemas+de+Informacao;construindo+meu+caminho+no+backend;transformando+ideias+em+sistemas;aprendendo+um+pouco+mais+a+cada+projeto" alt="Typing SVG">
 
 </div>
 
