@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de **Sistemas de Informação no IFBA**, atualmente no 4º semestre, e estou construindo minha experiência na área de desenvolvimento através de projetos próprios, estudos e trabalhos como freelancer.
 
@@ -32,7 +32,7 @@ Ainda estou no começo da minha trajetória profissional, mas gosto de aprender 
 
 ---
 
-## 🧠 O que venho estudando
+##  O que venho estudando
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, principalmente no lado do backend.
 
@@ -65,7 +65,7 @@ Também estou fazendo um curso de **Desenvolvimento Web Full Stack**, estudando 
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <div align="center">
 
@@ -89,9 +89,9 @@ Também estou fazendo um curso de **Desenvolvimento Web Full Stack**, estudando 
 
 ---
 
-## 📌 Um projeto que representa bem meu momento atual
+##  Um projeto que representa bem meu momento atual
 
-### 🎸 Casa 2 Studio
+###  Casa 2 Studio
 
 Um sistema web desenvolvido para um estúdio musical, pensado para resolver um problema real: **organizar o agendamento dos ensaios**.
 
@@ -115,7 +115,7 @@ O projeto começou como uma ideia simples e acabou se tornando uma oportunidade 
 
 ---
 
-## 🎓 Formação
+##  Formação
 
 **Bacharelado em Sistemas de Informação**  
 IFBA — Campus Vitória da Conquista  
@@ -127,7 +127,7 @@ Além da graduação, venho complementando meus estudos com desenvolvimento web 
 
 ---
 
-## 🔨 Atualmente
+##  Atualmente
 
 ```text
 estudando  → Desenvolvimento Web Full Stack
@@ -141,7 +141,7 @@ Não estou tentando aprender tudo ao mesmo tempo. Minha ideia é construir uma b
 
 ---
 
-## 📊 GitHub
+##  GitHub
 
 <div align="center">
 
@@ -153,7 +153,7 @@ Não estou tentando aprender tudo ao mesmo tempo. Minha ideia é construir uma b
 
 ---
 
-## 📫 Onde me encontrar
+##  Onde me encontrar
 
 <div align="center">
 
